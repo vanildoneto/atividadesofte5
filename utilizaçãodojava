@@ -1,0 +1,13 @@
+Primeiro site inspecionado foi a steam.steampowered.com
+
+botão: Iniciar Sessão 
+código: <button class="eventcalendar_LogInButton_1JHwA">Iniciar sessão</button> 
+objetivo: Leva o usuário para área de login do site 
+
+-----------------------------------------------------------
+
+Segundo site inspecionado foi google.com
+
+botão: Pesquisa google
+código: <input class="gNO89b" value="Pesquisa Google" aria-label="Pesquisa Google" name="btnK" role="button" tabindex="0" type="submit" data-ved="0ahUKEwjLnJXT2qf6AhXyqJUCHQtOBoUQ4dUDCAs">
+objetivo: Iniciar a busca de algo digitado pelo usuário na barra de pesquisa
